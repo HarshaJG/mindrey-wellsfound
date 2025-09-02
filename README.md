@@ -2,6 +2,9 @@
 
 A modern, responsive landing page built with React and Tailwind CSS for a mindfulness and meditation platform designed specifically for children aged 4-14.
 
+🔗 **Live Demo**: [View on Netlify](https://mindrey-wellsfound.netlify.app) *(deploy the dist folder)*  
+📂 **Repository**: [GitHub - mindrey-wellsfound](https://github.com/HarshaJG/mindrey-wellsfound)
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
